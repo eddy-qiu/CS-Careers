@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <img src="./careers-thumbnail2.png" alt="Careers" />
+        <h1>CS Careers</h1>
         <div className="career-container">
           <div className="career-card">
             <Career title="Software Engineer" description="A software engineer is a person who applies the principles of software engineering to the design, development, maintenance, testing, and evaluation of computer software." link="https://en.wikipedia.org/wiki/Software_engineer"/>
